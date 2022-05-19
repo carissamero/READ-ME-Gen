@@ -17,22 +17,22 @@
   [Questions](#questions)
 
   ## Description
-To create a professional read me file for the user
+To create a professional read me for the user
 
   ## License
 This product is under the Apache License 2.0.
 
   ## Installation
-To install this program please follow step 1,2,3
+To install this program, follow steps 1,2,3
 
   ## Usage
-The application can be used per the license noted
+The application can be used per the noted license
 
   ## Contributing
-developers can contribute 
+Developers can contribute
 
   ## Tests
-to test this application, launch from the cli
+To test this application, use the CLI
 
   ## Questions
   https://github.com/carissamero 
