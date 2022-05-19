@@ -1,40 +1,49 @@
 # Read Me Gen
-  ![Apache License 2.0](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)
-  ## Table of Contents
 
-  [Description](#description)
+![Apache License 2.0](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)
 
-  [Installation](#installation)
+## Table of Contents
 
-  [Usage](#usage)
+[Description](#description)
 
-  [License](#license)
+[Installation](#installation)
 
-  [Contributing](#contributing)
+[Usage](#usage)
 
-  [Tests](#tests)
+[License](#license)
 
-  [Questions](#questions)
+[Contributing](#contributing)
 
-  ## Description
+[Tests](#tests)
+
+[Questions](#questions)
+
+## Description
+
 To create a professional read me for the user
 
-  ## License
+## License
+
 This product is under the Apache License 2.0.
 
-  ## Installation
+## Installation
+
 To install this program, follow steps 1,2,3
 
-  ## Usage
+## Usage
+
 The application can be used per the noted license
 
-  ## Contributing
+## Contributing
+
 Developers can contribute
 
-  ## Tests
+## Tests
+
 To test this application, use the CLI
 
-  ## Questions
-  https://github.com/carissamero 
+## Questions
 
-  Reach me at: carissamero@yahoo.com
+https://github.com/carissamero
+
+Reach me at: carissamero@yahoo.com
